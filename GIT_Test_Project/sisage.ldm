@@ -29083,7 +29083,7 @@
   <LogicalDataModel:Entity xmi:id="_0qCWZb2xEee39oU63xJciw" name="Entity4" package="_0qCV0L2xEee39oU63xJciw" generalizations="_0qCWZL2xEee39oU63xJciw">
     <attributes xmi:id="_0qCWZr2xEee39oU63xJciw" name="Attribute1" dataType="CHAR(5)" required="true"/>
     <attributes xmi:id="_0qCWZ72xEee39oU63xJciw" name="Attribute2" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_0qCWaL2xEee39oU63xJciw" name="Attribute321" dataType="CHAR(5)"/>
+    <attributes xmi:id="_0qCWaL2xEee39oU63xJciw" name="Att31" dataType="CHAR(5)"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_0qCWab2xEee39oU63xJciw" name="ForeignKey1" attributes="_0qCWZr2xEee39oU63xJciw" generalization="_0qCWZL2xEee39oU63xJciw"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_0qCWar2xEee39oU63xJciw" name="Entity4_PK" attributes="_0qCWZr2xEee39oU63xJciw _0qCWZ72xEee39oU63xJciw"/>
   </LogicalDataModel:Entity>
