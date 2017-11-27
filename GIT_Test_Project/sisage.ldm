@@ -21856,6 +21856,9 @@
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_DGF_E9NQEeeaSb06xzzxNg" sortingKeys="Natural:Ascending"/>
           </children>
           <children xmi:id="_DGF_FNNQEeeaSb06xzzxNg" type="entity.ie.nonkey.compartment">
+            <children xsi:type="notation:Shape" xmi:id="_Rw18QNNQEeeaSb06xzzxNg" type="IEEntityNonKey" element="_RwyR4NNQEeeaSb06xzzxNg" fontName="Ubuntu" fontHeight="11">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Rw18QdNQEeeaSb06xzzxNg"/>
+            </children>
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_DGF_FdNQEeeaSb06xzzxNg" sortingKeys="Natural:Ascending"/>
           </children>
           <children xmi:id="_DGGmINNQEeeaSb06xzzxNg" visible="false" type="entity.ie.description.compartment">
@@ -29093,7 +29096,9 @@
     <relationshipEnds xmi:id="_q2I8MdOREeeD-4OA3VaLlA" cardinality="ONE" entity="_m-Iv4NOREeeD-4OA3VaLlA"/>
     <relationshipEnds xmi:id="_q2I8MtOREeeD-4OA3VaLlA" verbPhrase="Verb1" cardinality="ZERO_TO_MANY" entity="_m6qWANNNEeeZ-P03Jy4KJQ" key="_q2I8M9OREeeD-4OA3VaLlA"/>
   </LogicalDataModel:Relationship>
-  <LogicalDataModel:Entity xmi:id="_DGDi0NNQEeeaSb06xzzxNg" name="Conflict" package="_me_pkPsGEeSv6ZqUGSILYw" relationshipEnds="_GwdYANNQEeeaSb06xzzxNg"/>
+  <LogicalDataModel:Entity xmi:id="_DGDi0NNQEeeaSb06xzzxNg" name="Conflict" package="_me_pkPsGEeSv6ZqUGSILYw" relationshipEnds="_GwdYANNQEeeaSb06xzzxNg">
+    <attributes xmi:id="_RwyR4NNQEeeaSb06xzzxNg" name="Change1" dataType="CHAR(5)"/>
+  </LogicalDataModel:Entity>
   <LogicalDataModel:Relationship xmi:id="_Gwcw8NNQEeeaSb06xzzxNg" name="Entity1_Conflict_FK" relationshipType="NON_IDENTIFYING" existenceOptional="true" owningEntity="_m6qWANNNEeeZ-P03Jy4KJQ">
     <relationshipEnds xmi:id="_GwdYANNQEeeaSb06xzzxNg" entity="_DGDi0NNQEeeaSb06xzzxNg"/>
     <relationshipEnds xmi:id="_GwdYAdNQEeeaSb06xzzxNg" verbPhrase="Verb2" cardinality="ZERO_TO_MANY" entity="_m6qWANNNEeeZ-P03Jy4KJQ" key="_GwdYAtNQEeeaSb06xzzxNg"/>
