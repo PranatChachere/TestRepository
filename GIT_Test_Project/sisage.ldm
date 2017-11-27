@@ -21833,6 +21833,9 @@
             <children xsi:type="notation:Shape" xmi:id="_prAl0NOREeeD-4OA3VaLlA" type="IEEntityNonKey" element="_pq3b4NOREeeD-4OA3VaLlA" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_prAl0dOREeeD-4OA3VaLlA"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="_FhPBQNNPEeeZ-P03Jy4KJQ" type="IEEntityNonKey" element="_FhGeYNNPEeeZ-P03Jy4KJQ" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_FhPBQdNPEeeZ-P03Jy4KJQ"/>
+            </children>
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_m-Sg6dOREeeD-4OA3VaLlA" sortingKeys="Natural:Ascending"/>
           </children>
           <children xmi:id="_m-Sg6tOREeeD-4OA3VaLlA" visible="false" type="entity.ie.description.compartment">
@@ -29028,6 +29031,7 @@
   <LogicalDataModel:Generalization xmi:id="_pIYKwNNNEeeZ-P03Jy4KJQ" name="Entity2_Entity1_Gen" supertype="_m6qWANNNEeeZ-P03Jy4KJQ" subtype="_nXI2oNNNEeeZ-P03Jy4KJQ" foreignKey="_pIccMNNNEeeZ-P03Jy4KJQ" alternateKey="_nsusINNNEeeZ-P03Jy4KJQ" generalizationSet="_pUCoMNNNEeeZ-P03Jy4KJQ"/>
   <LogicalDataModel:Entity xmi:id="_m-Iv4NOREeeD-4OA3VaLlA" name="FirstChange" package="_me_pkPsGEeSv6ZqUGSILYw" relationshipEnds="_q2I8MdOREeeD-4OA3VaLlA">
     <attributes xmi:id="_pq3b4NOREeeD-4OA3VaLlA" name="Test1" dataType="CHAR(5)"/>
+    <attributes xmi:id="_FhGeYNNPEeeZ-P03Jy4KJQ" name="Test2" dataType="CHAR(5)"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Relationship xmi:id="_q2I8MNOREeeD-4OA3VaLlA" name="Entity1_FirstChange_FK" owningEntity="_m6qWANNNEeeZ-P03Jy4KJQ">
     <relationshipEnds xmi:id="_q2I8MdOREeeD-4OA3VaLlA" cardinality="ONE" entity="_m-Iv4NOREeeD-4OA3VaLlA"/>
