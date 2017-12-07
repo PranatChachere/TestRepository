@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--xtools2_universal_type_manager-->
 <xmi:XMI xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.9.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:LogicalDataModel="http:///com/ibm/db/models/logical/logical.ecore" xmlns:Volumetrics="http:///com/ibm/db/models/volumetrics/volumetrics.ecore" xmlns:datanotation="http:///datanotation.ecore" xmlns:ilvglnotation="http://www.ilog.com/views/8.5.0/LayoutNotationExtensionDefinition" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
-  <LogicalDataModel:Package xmi:id="_me_pkPsGEeSv6ZqUGSILYw" name="SISAGE" description="Descrição das principais funcionalidades e características da aplicação&#xA;A aplicação será basicamente WEB e terá funcionalidades nos ambientes intranet e internet.&#xA;As principais funcionalidades são:&#xA;- Cadastro de profissional&#xA;- Cadastro de local de atendimento&#xA;- Cadastro de associação entre locais de atendimento&#xA;- Cadastro de serviço&#xA;- Cadastro de indisponibilidade&#xA;- Cadastro de afastamento&#xA;- Cadastro de escala&#xA;- Agendamento&#xA;- Reagendamento" label="SISAGE" targetNamespace="sisage.ldm" children="_mfhOAPsGEeSv6ZqUGSILYw _JuR3QP13EeSt2ZVXNptIGQ" contents="_mhRhi_sGEeSv6ZqUGSILYw _mhOeMPsGEeSv6ZqUGSILYw _mgtg0PsGEeSv6ZqUGSILYw _mge3UPsGEeSv6ZqUGSILYw _mgNKgPsGEeSv6ZqUGSILYw _mgYwsPsGEeSv6ZqUGSILYw _mgXikPsGEeSv6ZqUGSILYw _mg-mkfsGEeSv6ZqUGSILYw _mhHwgPsGEeSv6ZqUGSILYw _mhLa6fsGEeSv6ZqUGSILYw _mgqdkfsGEeSv6ZqUGSILYw _mgRb8PsGEeSv6ZqUGSILYw _mgpPYPsGEeSv6ZqUGSILYw _mgrEkPsGEeSv6ZqUGSILYw _mgGc0PsGEeSv6ZqUGSILYw _mhNQEPsGEeSv6ZqUGSILYw _mgjIxPsGEeSv6ZqUGSILYw _mhMB8PsGEeSv6ZqUGSILYw _mgcbEPsGEeSv6ZqUGSILYw _mgF1wPsGEeSv6ZqUGSILYw _mgqdgPsGEeSv6ZqUGSILYw _mg6VKPsGEeSv6ZqUGSILYw _mg9_iPsGEeSv6ZqUGSILYw _mg8KUPsGEeSv6ZqUGSILYw _mg68NfsGEeSv6ZqUGSILYw _mhN3IPsGEeSv6ZqUGSILYw _mgYJpPsGEeSv6ZqUGSILYw _mgdCIPsGEeSv6ZqUGSILYw _mgrrpfsGEeSv6ZqUGSILYw _mgbM8PsGEeSv6ZqUGSILYw _mgsSsPsGEeSv6ZqUGSILYw _mhPsUPsGEeSv6ZqUGSILYw _mgooUPsGEeSv6ZqUGSILYw _mhCQ8PsGEeSv6ZqUGSILYw _mhRhgPsGEeSv6ZqUGSILYw _mgeQQPsGEeSv6ZqUGSILYw _mhQ6cPsGEeSv6ZqUGSILYw _mgfeYPsGEeSv6ZqUGSILYw _mhI-oPsGEeSv6ZqUGSILYw _mgOYoPsGEeSv6ZqUGSILYw _mgb0APsGEeSv6ZqUGSILYw _mgT4MPsGEeSv6ZqUGSILYw _mgmzIPsGEeSv6ZqUGSILYw _mhEtNPsGEeSv6ZqUGSILYw _mgHD5fsGEeSv6ZqUGSILYw _mhKMwPsGEeSv6ZqUGSILYw _mgXim_sGEeSv6ZqUGSILYw _mhHwifsGEeSv6ZqUGSILYw _mgKHMPsGEeSv6ZqUGSILYw _mgWUcPsGEeSv6ZqUGSILYw _mhEGIPsGEeSv6ZqUGSILYw _mgh6oPsGEeSv6ZqUGSILYw _mhKz3fsGEeSv6ZqUGSILYw _mhNQJPsGEeSv6ZqUGSILYw _mhBC0fsGEeSv6ZqUGSILYw _mg9YcPsGEeSv6ZqUGSILYw _mgEnoPsGEeSv6ZqUGSILYw _mggshfsGEeSv6ZqUGSILYw _mgZ-0PsGEeSv6ZqUGSILYw _mgO_sPsGEeSv6ZqUGSILYw _mg2qwPsGEeSv6ZqUGSILYw _mgnaMPsGEeSv6ZqUGSILYw _mhFUQvsGEeSv6ZqUGSILYw _mgLVVvsGEeSv6ZqUGSILYw _mhOeQfsGEeSv6ZqUGSILYw _mg_NoPsGEeSv6ZqUGSILYw _mgLVUPsGEeSv6ZqUGSILYw _mhKz0PsGEeSv6ZqUGSILYw _mhDfEPsGEeSv6ZqUGSILYw _mhLa4PsGEeSv6ZqUGSILYw _mgL8YvsGEeSv6ZqUGSILYw _mg8xYPsGEeSv6ZqUGSILYw _mhQTYPsGEeSv6ZqUGSILYw _mhIXkPsGEeSv6ZqUGSILYw _mg1coPsGEeSv6ZqUGSILYw _mhSvoPsGEeSv6ZqUGSILYw _mgW7gPsGEeSv6ZqUGSILYw _mhC4APsGEeSv6ZqUGSILYw _mg4f8PsGEeSv6ZqUGSILYw _mhDfIfsGEeSv6ZqUGSILYw _mghTkPsGEeSv6ZqUGSILYw _mgHD4PsGEeSv6ZqUGSILYw _mg5uEPsGEeSv6ZqUGSILYw _mggsgPsGEeSv6ZqUGSILYw _mg6VIPsGEeSv6ZqUGSILYw _mgoBQPsGEeSv6ZqUGSILYw _mgSDAPsGEeSv6ZqUGSILYw _mg_0sPsGEeSv6ZqUGSILYw _mgal4PsGEeSv6ZqUGSILYw _mhMpAPsGEeSv6ZqUGSILYw _mhHJcPsGEeSv6ZqUGSILYw _mgISAPsGEeSv6ZqUGSILYw _mhAbzvsGEeSv6ZqUGSILYw _mgrroPsGEeSv6ZqUGSILYw _mgpPbfsGEeSv6ZqUGSILYw _mggFefsGEeSv6ZqUGSILYw _mg9_g_sGEeSv6ZqUGSILYw _mgs5wPsGEeSv6ZqUGSILYw _mgZXwPsGEeSv6ZqUGSILYw _mgSqEPsGEeSv6ZqUGSILYw _mgQN0PsGEeSv6ZqUGSILYw _pd-1gA7WEeW9weML46p3-A _pd_cnA7WEeW9weML46p3-A _pd_cpw7WEeW9weML46p3-A _peADoA7WEeW9weML46p3-A _NdW_8CVqEeW38p2D1XVRow _P20KoCVqEeW38p2D1XVRow _Ub--8CVqEeW38p2D1XVRow _ewa9AEBiEeWki_AzCtRllA _LwyNwEBjEeWki_AzCtRllA _cRu_oEG4EeW7xJ6022q5AQ __eoLMEG4EeW7xJ6022q5AQ _DPf_UEG6EeW7xJ6022q5AQ _j6l8sEHfEeW7xJ6022q5AQ _uRG4QHl8EeWXCaS2ZYj1Ug _ooTaIIo6EeWgdc0JOXr_yQ _ooTaU4o6EeWgdc0JOXr_yQ _ooTaYYo6EeWgdc0JOXr_yQ _ooTaa4o6EeWgdc0JOXr_yQ _ooTacoo6EeWgdc0JOXr_yQ _opo24Io6EeWgdc0JOXr_yQ _opo264o6EeWgdc0JOXr_yQ _ooTaLYo6EeWgdc0JOXr_yQ _1Ac2kJSCEeWpp4BN0wl6JQ _121y4J0QEeWaOsM7ik1wUg _TBZTYJ3TEeWaOsM7ik1wUg _ScAgcKKLEeWSDogFP7WOhw _H5si0KKMEeWSDogFP7WOhw _I08lkKS6EeWSDogFP7WOhw _VC-oQK74EeWBjY14oHZoKg _bJR4IK74EeWBjY14oHZoKg _epTCQK74EeWBjY14oHZoKg _PLk6kK75EeWBjY14oHZoKg _VsMu8K75EeWBjY14oHZoKg _cIIaAMaGEeWkcNAolqPOMg _7sUnEMtIEeWBybTmnAJBEw _WDLd4Mt8EeWBybTmnAJBEw _Dob_4MuHEeWBybTmnAJBEw _1-lLoMwNEeWBybTmnAJBEw _iVRVMNY-EeWnEZ_hUyNhgA _T_iX0N_YEeW-LYxsY9aBeA _Sj3hAOrOEeWSQ9TMBXH4Xg _bV82IOrYEeWSQ9TMBXH4Xg _RPwS0OxEEeWrup7oH8OCFA _VVRWsOxEEeWrup7oH8OCFA __w3PwAGcEeaP5cQPOMqxeA _t0JxcBkoEeaYc6V2o5DMLQ _9Dn6YBkqEeaYc6V2o5DMLQ _FwfHYBksEeaYc6V2o5DMLQ _jb1noBw6EeaoZvI7blRDxw _a6L_ICj9EeaJ2PS0KxdIWA _yC4jkCj-EeaJ2PS0KxdIWA _w7kOUCywEeaMabsTlyE8pA _qosFkCyxEeaMabsTlyE8pA _mDkpsDGVEea-pplO2WSM2w _m6qWANNNEeeZ-P03Jy4KJQ _nXI2oNNNEeeZ-P03Jy4KJQ _m-Iv4NOREeeD-4OA3VaLlA _DGDi0NNQEeeaSb06xzzxNg _4Wkp0Nt9Eeetv9MN_m3TKw _5wjUgNt9Eeetv9MN_m3TKw _6GmdANt9Eeetv9MN_m3TKw">
+  <LogicalDataModel:Package xmi:id="_me_pkPsGEeSv6ZqUGSILYw" name="SISAGE" description="Descrição das principais funcionalidades e características da aplicação&#xA;A aplicação será basicamente WEB e terá funcionalidades nos ambientes intranet e internet.&#xA;As principais funcionalidades são:&#xA;- Cadastro de profissional&#xA;- Cadastro de local de atendimento&#xA;- Cadastro de associação entre locais de atendimento&#xA;- Cadastro de serviço&#xA;- Cadastro de indisponibilidade&#xA;- Cadastro de afastamento&#xA;- Cadastro de escala&#xA;- Agendamento&#xA;- Reagendamento" label="SISAGE" targetNamespace="sisage.ldm" children="_mfhOAPsGEeSv6ZqUGSILYw _JuR3QP13EeSt2ZVXNptIGQ" contents="_mhRhi_sGEeSv6ZqUGSILYw _mhOeMPsGEeSv6ZqUGSILYw _mgtg0PsGEeSv6ZqUGSILYw _mge3UPsGEeSv6ZqUGSILYw _mgNKgPsGEeSv6ZqUGSILYw _mgYwsPsGEeSv6ZqUGSILYw _mgXikPsGEeSv6ZqUGSILYw _mg-mkfsGEeSv6ZqUGSILYw _mhHwgPsGEeSv6ZqUGSILYw _mhLa6fsGEeSv6ZqUGSILYw _mgqdkfsGEeSv6ZqUGSILYw _mgRb8PsGEeSv6ZqUGSILYw _mgpPYPsGEeSv6ZqUGSILYw _mgrEkPsGEeSv6ZqUGSILYw _mgGc0PsGEeSv6ZqUGSILYw _mhNQEPsGEeSv6ZqUGSILYw _mgjIxPsGEeSv6ZqUGSILYw _mhMB8PsGEeSv6ZqUGSILYw _mgcbEPsGEeSv6ZqUGSILYw _mgF1wPsGEeSv6ZqUGSILYw _mgqdgPsGEeSv6ZqUGSILYw _mg6VKPsGEeSv6ZqUGSILYw _mg9_iPsGEeSv6ZqUGSILYw _mg8KUPsGEeSv6ZqUGSILYw _mg68NfsGEeSv6ZqUGSILYw _mhN3IPsGEeSv6ZqUGSILYw _mgYJpPsGEeSv6ZqUGSILYw _mgdCIPsGEeSv6ZqUGSILYw _mgrrpfsGEeSv6ZqUGSILYw _mgbM8PsGEeSv6ZqUGSILYw _mgsSsPsGEeSv6ZqUGSILYw _mhPsUPsGEeSv6ZqUGSILYw _mgooUPsGEeSv6ZqUGSILYw _mhCQ8PsGEeSv6ZqUGSILYw _mhRhgPsGEeSv6ZqUGSILYw _mgeQQPsGEeSv6ZqUGSILYw _mhQ6cPsGEeSv6ZqUGSILYw _mgfeYPsGEeSv6ZqUGSILYw _mhI-oPsGEeSv6ZqUGSILYw _mgOYoPsGEeSv6ZqUGSILYw _mgb0APsGEeSv6ZqUGSILYw _mgT4MPsGEeSv6ZqUGSILYw _mgmzIPsGEeSv6ZqUGSILYw _mhEtNPsGEeSv6ZqUGSILYw _mgHD5fsGEeSv6ZqUGSILYw _mhKMwPsGEeSv6ZqUGSILYw _mgXim_sGEeSv6ZqUGSILYw _mhHwifsGEeSv6ZqUGSILYw _mgKHMPsGEeSv6ZqUGSILYw _mgWUcPsGEeSv6ZqUGSILYw _mhEGIPsGEeSv6ZqUGSILYw _mgh6oPsGEeSv6ZqUGSILYw _mhKz3fsGEeSv6ZqUGSILYw _mhNQJPsGEeSv6ZqUGSILYw _mhBC0fsGEeSv6ZqUGSILYw _mg9YcPsGEeSv6ZqUGSILYw _mgEnoPsGEeSv6ZqUGSILYw _mggshfsGEeSv6ZqUGSILYw _mgZ-0PsGEeSv6ZqUGSILYw _mgO_sPsGEeSv6ZqUGSILYw _mg2qwPsGEeSv6ZqUGSILYw _mgnaMPsGEeSv6ZqUGSILYw _mhFUQvsGEeSv6ZqUGSILYw _mgLVVvsGEeSv6ZqUGSILYw _mhOeQfsGEeSv6ZqUGSILYw _mg_NoPsGEeSv6ZqUGSILYw _mgLVUPsGEeSv6ZqUGSILYw _mhKz0PsGEeSv6ZqUGSILYw _mhDfEPsGEeSv6ZqUGSILYw _mhLa4PsGEeSv6ZqUGSILYw _mgL8YvsGEeSv6ZqUGSILYw _mg8xYPsGEeSv6ZqUGSILYw _mhQTYPsGEeSv6ZqUGSILYw _mhIXkPsGEeSv6ZqUGSILYw _mg1coPsGEeSv6ZqUGSILYw _mhSvoPsGEeSv6ZqUGSILYw _mgW7gPsGEeSv6ZqUGSILYw _mhC4APsGEeSv6ZqUGSILYw _mg4f8PsGEeSv6ZqUGSILYw _mhDfIfsGEeSv6ZqUGSILYw _mghTkPsGEeSv6ZqUGSILYw _mgHD4PsGEeSv6ZqUGSILYw _mg5uEPsGEeSv6ZqUGSILYw _mggsgPsGEeSv6ZqUGSILYw _mg6VIPsGEeSv6ZqUGSILYw _mgoBQPsGEeSv6ZqUGSILYw _mgSDAPsGEeSv6ZqUGSILYw _mg_0sPsGEeSv6ZqUGSILYw _mgal4PsGEeSv6ZqUGSILYw _mhMpAPsGEeSv6ZqUGSILYw _mhHJcPsGEeSv6ZqUGSILYw _mgISAPsGEeSv6ZqUGSILYw _mhAbzvsGEeSv6ZqUGSILYw _mgrroPsGEeSv6ZqUGSILYw _mgpPbfsGEeSv6ZqUGSILYw _mggFefsGEeSv6ZqUGSILYw _mg9_g_sGEeSv6ZqUGSILYw _mgs5wPsGEeSv6ZqUGSILYw _mgZXwPsGEeSv6ZqUGSILYw _mgSqEPsGEeSv6ZqUGSILYw _mgQN0PsGEeSv6ZqUGSILYw _pd-1gA7WEeW9weML46p3-A _pd_cnA7WEeW9weML46p3-A _pd_cpw7WEeW9weML46p3-A _peADoA7WEeW9weML46p3-A _NdW_8CVqEeW38p2D1XVRow _P20KoCVqEeW38p2D1XVRow _Ub--8CVqEeW38p2D1XVRow _ewa9AEBiEeWki_AzCtRllA _LwyNwEBjEeWki_AzCtRllA _cRu_oEG4EeW7xJ6022q5AQ __eoLMEG4EeW7xJ6022q5AQ _DPf_UEG6EeW7xJ6022q5AQ _j6l8sEHfEeW7xJ6022q5AQ _uRG4QHl8EeWXCaS2ZYj1Ug _ooTaIIo6EeWgdc0JOXr_yQ _ooTaU4o6EeWgdc0JOXr_yQ _ooTaYYo6EeWgdc0JOXr_yQ _ooTaa4o6EeWgdc0JOXr_yQ _ooTacoo6EeWgdc0JOXr_yQ _opo24Io6EeWgdc0JOXr_yQ _opo264o6EeWgdc0JOXr_yQ _ooTaLYo6EeWgdc0JOXr_yQ _1Ac2kJSCEeWpp4BN0wl6JQ _121y4J0QEeWaOsM7ik1wUg _TBZTYJ3TEeWaOsM7ik1wUg _ScAgcKKLEeWSDogFP7WOhw _H5si0KKMEeWSDogFP7WOhw _I08lkKS6EeWSDogFP7WOhw _VC-oQK74EeWBjY14oHZoKg _bJR4IK74EeWBjY14oHZoKg _epTCQK74EeWBjY14oHZoKg _PLk6kK75EeWBjY14oHZoKg _VsMu8K75EeWBjY14oHZoKg _cIIaAMaGEeWkcNAolqPOMg _7sUnEMtIEeWBybTmnAJBEw _WDLd4Mt8EeWBybTmnAJBEw _Dob_4MuHEeWBybTmnAJBEw _1-lLoMwNEeWBybTmnAJBEw _iVRVMNY-EeWnEZ_hUyNhgA _T_iX0N_YEeW-LYxsY9aBeA _Sj3hAOrOEeWSQ9TMBXH4Xg _bV82IOrYEeWSQ9TMBXH4Xg _RPwS0OxEEeWrup7oH8OCFA _VVRWsOxEEeWrup7oH8OCFA __w3PwAGcEeaP5cQPOMqxeA _t0JxcBkoEeaYc6V2o5DMLQ _9Dn6YBkqEeaYc6V2o5DMLQ _FwfHYBksEeaYc6V2o5DMLQ _jb1noBw6EeaoZvI7blRDxw _a6L_ICj9EeaJ2PS0KxdIWA _yC4jkCj-EeaJ2PS0KxdIWA _w7kOUCywEeaMabsTlyE8pA _qosFkCyxEeaMabsTlyE8pA _mDkpsDGVEea-pplO2WSM2w _m6qWANNNEeeZ-P03Jy4KJQ _nXI2oNNNEeeZ-P03Jy4KJQ _m-Iv4NOREeeD-4OA3VaLlA _DGDi0NNQEeeaSb06xzzxNg _4Wkp0Nt9Eeetv9MN_m3TKw _5wjUgNt9Eeetv9MN_m3TKw _6GmdANt9Eeetv9MN_m3TKw _oj-ZwNs7Eee5lL68WmXY1g">
     <eAnnotations xmi:id="_mfCF0PsGEeSv6ZqUGSILYw" source="UDP">
       <details xmi:id="_mfCF0fsGEeSv6ZqUGSILYw" key="Note0" value="Inicialmente o SISAGE fornecerá serviço de agendamentos para os sistemas SIBE, CNIS e SAE, de forma que não será vinculado exclusivamente ao SIBE.De qualquer forma ele estará bastante acoplados com o SIBE. "/>
     </eAnnotations>
@@ -21848,6 +21848,32 @@
           <styles xsi:type="datanotation:TableStyle" xmi:id="_6GpgUNt9Eeetv9MN_m3TKw" fontName="Segoe UI" lineWidth="1"/>
           <layoutConstraint xsi:type="notation:Bounds" xmi:id="_6Go5Qtt9Eeetv9MN_m3TKw" x="10768" y="4841"/>
         </children>
+        <children xmi:id="_osA7cNs7Eee5lL68WmXY1g" element="_oj-ZwNs7Eee5lL68WmXY1g">
+          <children xsi:type="notation:Shape" xmi:id="_osEl0Ns7Eee5lL68WmXY1g" type="IEEntityName" fontName="Segoe UI">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_osEl0ds7Eee5lL68WmXY1g"/>
+          </children>
+          <children xmi:id="_osFM4Ns7Eee5lL68WmXY1g" type="entity.ie.key.compartment">
+            <children xsi:type="notation:Shape" xmi:id="_qrT5sNs7Eee5lL68WmXY1g" type="IEEntityKey" element="_qqKqMNs7Eee5lL68WmXY1g" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_qrT5sds7Eee5lL68WmXY1g"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_osFM4ds7Eee5lL68WmXY1g" sortingKeys="Natural:Ascending"/>
+          </children>
+          <children xmi:id="_osFM4ts7Eee5lL68WmXY1g" type="entity.ie.nonkey.compartment">
+            <children xsi:type="notation:Shape" xmi:id="_q_2mUNs7Eee5lL68WmXY1g" type="IEEntityNonKey" element="_q_1YMNs7Eee5lL68WmXY1g" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_q_2mUds7Eee5lL68WmXY1g"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_osFM49s7Eee5lL68WmXY1g" sortingKeys="Natural:Ascending"/>
+          </children>
+          <children xmi:id="_osFz8Ns7Eee5lL68WmXY1g" visible="false" type="entity.ie.description.compartment">
+            <children xsi:type="notation:Shape" xmi:id="_osGbANs7Eee5lL68WmXY1g" type="IEEntityDescription" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_osGbAds7Eee5lL68WmXY1g"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_osFz8ds7Eee5lL68WmXY1g"/>
+          </children>
+          <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_osA7cds7Eee5lL68WmXY1g" sortingKeys="Natural:Ascending"/>
+          <styles xsi:type="datanotation:TableStyle" xmi:id="_osCJkNs7Eee5lL68WmXY1g" fontName="Segoe UI" lineWidth="1"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_osA7cts7Eee5lL68WmXY1g" x="15160" y="2090"/>
+        </children>
         <styles xsi:type="datanotation:DataAttributeStyle" xmi:id="_y_URQdt9Eeetv9MN_m3TKw"/>
         <styles xsi:type="datanotation:DataCompartmentStyle" xmi:id="_y_URQtt9Eeetv9MN_m3TKw"/>
         <styles xsi:type="datanotation:DataDisplayStyle" xmi:id="_y_URQ9t9Eeetv9MN_m3TKw"/>
@@ -21903,6 +21929,41 @@
           </children>
           <styles xsi:type="datanotation:DataLineStyle" xmi:id="__9KAsdt9Eeetv9MN_m3TKw" fontName="Segoe UI" routing="Rectilinear" lineWidth="1"/>
           <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="__9KAstt9Eeetv9MN_m3TKw" points="[-43, -27, 122, 93]$[-193, -91, -28, 29]"/>
+        </edges>
+        <edges xmi:id="_rrqjcNs7Eee5lL68WmXY1g" element="_rYAnoNs7Eee5lL68WmXY1g" source="_osA7cNs7Eee5lL68WmXY1g" target="_4WysQNt9Eeetv9MN_m3TKw">
+          <children xmi:id="_rrtmwNs7Eee5lL68WmXY1g" type="relationship.ie.name">
+            <children xsi:type="notation:Shape" xmi:id="_rrtmwts7Eee5lL68WmXY1g" type="IERelationship.name" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_rrtmw9s7Eee5lL68WmXY1g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_rrtmwds7Eee5lL68WmXY1g" y="-186"/>
+          </children>
+          <children xmi:id="_rrtmxNs7Eee5lL68WmXY1g" type="relationship.ie.child.name">
+            <children xsi:type="notation:Shape" xmi:id="_rruN0Ns7Eee5lL68WmXY1g" type="IERelationship.childname" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_rruN0ds7Eee5lL68WmXY1g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_rrtmxds7Eee5lL68WmXY1g" x="-265" y="-662"/>
+          </children>
+          <children xmi:id="_rruN0ts7Eee5lL68WmXY1g" type="relationship.ie.parent.name">
+            <children xsi:type="notation:Shape" xmi:id="_rruN1Ns7Eee5lL68WmXY1g" type="IERelationship.parentname" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_rruN1ds7Eee5lL68WmXY1g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_rruN09s7Eee5lL68WmXY1g" y="-397"/>
+          </children>
+          <children xmi:id="_rruN1ts7Eee5lL68WmXY1g" type="relationship.ie.ri">
+            <children xsi:type="notation:Shape" xmi:id="_rruN2Ns7Eee5lL68WmXY1g" type="IERelationship.ri" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_rruN2ds7Eee5lL68WmXY1g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_rruN19s7Eee5lL68WmXY1g" x="-265" y="-662"/>
+          </children>
+          <children xmi:id="_rru04Ns7Eee5lL68WmXY1g" type="relationship.ie.child.cardinality.name">
+            <children xsi:type="notation:Shape" xmi:id="_rru04ts7Eee5lL68WmXY1g" type="IERelationship.childcardinalityname" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_rru049s7Eee5lL68WmXY1g"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_rru04ds7Eee5lL68WmXY1g" x="-265" y="661"/>
+          </children>
+          <styles xsi:type="datanotation:DataLineStyle" xmi:id="_rrqjcds7Eee5lL68WmXY1g" fontName="Segoe UI" routing="Rectilinear" lineWidth="1"/>
+          <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_rrqjcts7Eee5lL68WmXY1g" points="[-16, 1, 276, 8]$[-238, 1, 54, 8]"/>
+          <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_rr0UcNs7Eee5lL68WmXY1g" id="(0.16845878136200718,0.34927627438640657)"/>
         </edges>
       </contents>
     </eAnnotations>
@@ -29044,11 +29105,12 @@
     <relationshipEnds xmi:id="_GwdYANNQEeeaSb06xzzxNg" entity="_DGDi0NNQEeeaSb06xzzxNg"/>
     <relationshipEnds xmi:id="_GwdYAdNQEeeaSb06xzzxNg" verbPhrase="Verb2" cardinality="ZERO_TO_MANY" entity="_m6qWANNNEeeZ-P03Jy4KJQ" key="_GwdYAtNQEeeaSb06xzzxNg"/>
   </LogicalDataModel:Relationship>
-  <LogicalDataModel:Entity xmi:id="_4Wkp0Nt9Eeetv9MN_m3TKw" name="Entity3" package="_me_pkPsGEeSv6ZqUGSILYw" relationshipEnds="__Svxwtt9Eeetv9MN_m3TKw" relationships="__SvxwNt9Eeetv9MN_m3TKw" specializations="_6jJ2INt9Eeetv9MN_m3TKw" defaultSet="_6jQj0Nt9Eeetv9MN_m3TKw">
+  <LogicalDataModel:Entity xmi:id="_4Wkp0Nt9Eeetv9MN_m3TKw" name="Entity3" package="_me_pkPsGEeSv6ZqUGSILYw" relationshipEnds="__Svxwtt9Eeetv9MN_m3TKw _rYAnots7Eee5lL68WmXY1g" relationships="__SvxwNt9Eeetv9MN_m3TKw _rYAnoNs7Eee5lL68WmXY1g" specializations="_6jJ2INt9Eeetv9MN_m3TKw" defaultSet="_6jQj0Nt9Eeetv9MN_m3TKw">
     <attributes xmi:id="_7cD0ENt9Eeetv9MN_m3TKw" name="Attribute1" dataType="CHAR(5)" required="true"/>
     <attributes xmi:id="_8rCvsNt9Eeetv9MN_m3TKw" name="Attribute2" dataType="CHAR(5)"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_7cM-ANt9Eeetv9MN_m3TKw" name="Entity3_PK" attributes="_7cD0ENt9Eeetv9MN_m3TKw" generalization="_6jJ2INt9Eeetv9MN_m3TKw"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="__Sw_4Nt9Eeetv9MN_m3TKw" name="ForeignKey" attributes="_7cD0ENt9Eeetv9MN_m3TKw" relationshipEnds="__Svxwtt9Eeetv9MN_m3TKw"/>
+    <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_rYBOsNs7Eee5lL68WmXY1g" name="ForeignKey1" attributes="_7cD0ENt9Eeetv9MN_m3TKw" relationshipEnds="_rYAnots7Eee5lL68WmXY1g"/>
     <generalizationSets xmi:id="_6jQj0Nt9Eeetv9MN_m3TKw" name="Generalization Set1" generalizations="_6jJ2INt9Eeetv9MN_m3TKw"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Entity xmi:id="_5wjUgNt9Eeetv9MN_m3TKw" name="Entity4" package="_me_pkPsGEeSv6ZqUGSILYw" generalizations="_6jJ2INt9Eeetv9MN_m3TKw">
@@ -29066,5 +29128,14 @@
   <LogicalDataModel:Relationship xmi:id="__SvxwNt9Eeetv9MN_m3TKw" name="Entity3_Entity5_FK" owningEntity="_4Wkp0Nt9Eeetv9MN_m3TKw">
     <relationshipEnds xmi:id="__Svxwdt9Eeetv9MN_m3TKw" cardinality="ONE" entity="_6GmdANt9Eeetv9MN_m3TKw" key="_94OUgNt9Eeetv9MN_m3TKw"/>
     <relationshipEnds xmi:id="__Svxwtt9Eeetv9MN_m3TKw" verbPhrase="Verb1" cardinality="ZERO_TO_MANY" entity="_4Wkp0Nt9Eeetv9MN_m3TKw" key="__Sw_4Nt9Eeetv9MN_m3TKw"/>
+  </LogicalDataModel:Relationship>
+  <LogicalDataModel:Entity xmi:id="_oj-ZwNs7Eee5lL68WmXY1g" name="PullEntity" package="_me_pkPsGEeSv6ZqUGSILYw" relationshipEnds="_rYAnods7Eee5lL68WmXY1g">
+    <attributes xmi:id="_qqKqMNs7Eee5lL68WmXY1g" name="Attribute1" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_q_1YMNs7Eee5lL68WmXY1g" name="Attribute2" dataType="CHAR(5)"/>
+    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_qqh2kNs7Eee5lL68WmXY1g" name="PullEntity_PK" attributes="_qqKqMNs7Eee5lL68WmXY1g" relationshipEnds="_rYAnods7Eee5lL68WmXY1g"/>
+  </LogicalDataModel:Entity>
+  <LogicalDataModel:Relationship xmi:id="_rYAnoNs7Eee5lL68WmXY1g" name="Entity3_PullEntity_FK" relationshipType="NON_IDENTIFYING" existenceOptional="true" owningEntity="_4Wkp0Nt9Eeetv9MN_m3TKw">
+    <relationshipEnds xmi:id="_rYAnods7Eee5lL68WmXY1g" entity="_oj-ZwNs7Eee5lL68WmXY1g" key="_qqh2kNs7Eee5lL68WmXY1g"/>
+    <relationshipEnds xmi:id="_rYAnots7Eee5lL68WmXY1g" verbPhrase="Verb2" cardinality="ZERO_TO_MANY" entity="_4Wkp0Nt9Eeetv9MN_m3TKw" key="_rYBOsNs7Eee5lL68WmXY1g"/>
   </LogicalDataModel:Relationship>
 </xmi:XMI>
