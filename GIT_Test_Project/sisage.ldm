@@ -21787,6 +21787,9 @@
             <children xsi:type="notation:Shape" xmi:id="_mZWOceCPEee7X-fuuZgH0g" type="IEEntityNonKey" element="_mZWOcOCPEee7X-fuuZgH0g" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_mZWOcuCPEee7X-fuuZgH0g"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="_8tV08OCPEee7X-fuuZgH0g" type="IEEntityNonKey" element="_8tMrAOCPEee7X-fuuZgH0g" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8tV08eCPEee7X-fuuZgH0g"/>
+            </children>
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_kjPoeeCPEee7X-fuuZgH0g" sortingKeys="Natural:Ascending"/>
           </children>
           <children xmi:id="_kjPoeuCPEee7X-fuuZgH0g" visible="false" type="entity.ie.description.compartment">
@@ -29029,6 +29032,7 @@
     <attributes xmi:id="_l2W2IOCPEee7X-fuuZgH0g" name="Attribute1" dataType="CHAR(5)" required="true"/>
     <attributes xmi:id="_mLD60OCPEee7X-fuuZgH0g" name="Attribute2" dataType="CHAR(5)"/>
     <attributes xmi:id="_mZWOcOCPEee7X-fuuZgH0g" name="Attribute3" dataType="CHAR(5)"/>
+    <attributes xmi:id="_8tMrAOCPEee7X-fuuZgH0g" name="Attribute4" dataType="CHAR(5)"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_l2qYIOCPEee7X-fuuZgH0g" name="Entity6_PK" attributes="_l2W2IOCPEee7X-fuuZgH0g"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_obH48eCPEee7X-fuuZgH0g" name="ForeignKey1" attributes="_l2W2IOCPEee7X-fuuZgH0g" generalization="_obH48OCPEee7X-fuuZgH0g"/>
   </LogicalDataModel:Entity>
