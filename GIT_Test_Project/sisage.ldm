@@ -14238,12 +14238,12 @@
             <children xsi:type="notation:Shape" xmi:id="_I9JUEEG5EeW7xJ6022q5AQ" type="IEEntityKey" element="_H_kRgEG5EeW7xJ6022q5AQ" fontName="Ubuntu" fontHeight="8">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_I9JUEUG5EeW7xJ6022q5AQ"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="_UpZgMMbkEei9MZen180RHA" type="IEEntityKey" element="_NE4lgEG5EeW7xJ6022q5AQ" fontName="Ubuntu" fontHeight="8">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_UpZgMcbkEei9MZen180RHA"/>
+            </children>
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="__erOgUG4EeW7xJ6022q5AQ" sortingKeys="Natural:Ascending"/>
           </children>
           <children xmi:id="__erOgkG4EeW7xJ6022q5AQ" type="entity.ie.nonkey.compartment">
-            <children xsi:type="notation:Shape" xmi:id="_NE6asEG5EeW7xJ6022q5AQ" type="IEEntityNonKey" element="_NE4lgEG5EeW7xJ6022q5AQ" fontName="Ubuntu" fontHeight="8">
-              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_NE6asUG5EeW7xJ6022q5AQ"/>
-            </children>
             <children xsi:type="notation:Shape" xmi:id="_WDll4EG5EeW7xJ6022q5AQ" type="IEEntityNonKey" element="_WDk-0EG5EeW7xJ6022q5AQ" fontName="Ubuntu" fontHeight="8">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_WDll4UG5EeW7xJ6022q5AQ"/>
             </children>
@@ -27903,7 +27903,7 @@
     <attributes xmi:id="_H_kRgEG5EeW7xJ6022q5AQ" name="ID_ACAO_EVENTO_LOG" description="Identificador da ação." dataType="NUMERIC(11,0)" required="true"/>
     <attributes xmi:id="_NE4lgEG5EeW7xJ6022q5AQ" name="TE_DESCRICAO" description="Descrição da ação." dataType="VARCHAR(300)" required="true"/>
     <attributes xmi:id="_WDk-0EG5EeW7xJ6022q5AQ" name="ID_EVENTO_LOG" description="Identificador do evento." dataType="NUMERIC(10,0)" required="true"/>
-    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_I82ZIEG5EeW7xJ6022q5AQ" name="AEVLOG_PK" attributes="_H_kRgEG5EeW7xJ6022q5AQ"/>
+    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_I82ZIEG5EeW7xJ6022q5AQ" name="AEVLOG_PK" attributes="_H_kRgEG5EeW7xJ6022q5AQ _NE4lgEG5EeW7xJ6022q5AQ"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_WDjwsEG5EeW7xJ6022q5AQ" name="ForeignKey" attributes="_WDk-0EG5EeW7xJ6022q5AQ" relationshipEnds="_WDjJokG5EeW7xJ6022q5AQ"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Relationship xmi:id="_WDjJoEG5EeW7xJ6022q5AQ" name="AEVLOG_EVLOG_FK" relationshipType="NON_IDENTIFYING" owningEntity="__eoLMEG4EeW7xJ6022q5AQ">
