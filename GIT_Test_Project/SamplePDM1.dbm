@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<xmi:XMI xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.9.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:DB2Model="http:///com/ibm/db/models/db2/db2.ecore" xmlns:LUW="http:///com/ibm/db/models/db2/luw.ecore" xmlns:SQLConstraints="http:///org/eclipse/datatools/modelbase/sql/constraints.ecore" xmlns:SQLDataTypes="http:///org/eclipse/datatools/modelbase/sql/datatypes.ecore" xmlns:datanotation="http:///datanotation.ecore" xmlns:ilvglnotation="http://www.ilog.com/views/8.5.0/LayoutNotationExtensionDefinition" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <LUW:LUWDatabase xmi:id="_Tcbg8LFUEeq-xovTuBagTA" name="Database" vendor="DB2 UDB" version="V8.2" schemas="_TvJooLFUEeq-xovTuBagTA"/>
+  <DB2Model:DB2Schema xmi:id="_TvJooLFUEeq-xovTuBagTA" name="Schema" tables="_UfCNcLFUEeq-xovTuBagTA" database="_Tcbg8LFUEeq-xovTuBagTA">
+    <eAnnotations xmi:id="_Tx2-YLFUEeq-xovTuBagTA" source="diagram">
+      <contents xsi:type="datanotation:DataDiagram" xmi:id="_Tx3lcLFUEeq-xovTuBagTA" type="IE_CrowFoot" name="Package1_Diagram1" viewKind="ProjectExplorer" notation="IE_CrowFoot" kind="Physical">
+        <children xmi:id="_UVsEMLFUEeq-xovTuBagTA" element="_UfCNcLFUEeq-xovTuBagTA">
+          <children xsi:type="notation:Shape" xmi:id="_UVwVoLFUEeq-xovTuBagTA" type="TableName" fontName="Segoe UI">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_UVwVobFUEeq-xovTuBagTA"/>
+          </children>
+          <children xmi:id="_UVyK0LFUEeq-xovTuBagTA" type="Key.Compartment">
+            <children xsi:type="notation:Shape" xmi:id="_UV-YErFUEeq-xovTuBagTA" type="Key" element="_UfCNcbFUEeq-xovTuBagTA" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_UV-YE7FUEeq-xovTuBagTA"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_UVyK0bFUEeq-xovTuBagTA" sortingKeys="Natural:Ascending"/>
+          </children>
+          <children xmi:id="_UV0nELFUEeq-xovTuBagTA" type="Column.Compartment">
+            <children xsi:type="notation:Shape" xmi:id="_UV6GoLFUEeq-xovTuBagTA" type="Column" element="_UfCNc7FUEeq-xovTuBagTA" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_UV6GobFUEeq-xovTuBagTA"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_UV770LFUEeq-xovTuBagTA" type="Column" element="_UfCNdbFUEeq-xovTuBagTA" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_UV770bFUEeq-xovTuBagTA"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_UV9J8LFUEeq-xovTuBagTA" type="Column" element="_UfCNd7FUEeq-xovTuBagTA" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_UV9J8bFUEeq-xovTuBagTA"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_UV-YELFUEeq-xovTuBagTA" type="Column" element="_UfCNebFUEeq-xovTuBagTA" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_UV-YEbFUEeq-xovTuBagTA"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_UV0nEbFUEeq-xovTuBagTA" sortingKeys="Natural:Ascending"/>
+          </children>
+          <children xmi:id="_UV11MLFUEeq-xovTuBagTA" visible="false" type="Index.Compartment">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_UV11MbFUEeq-xovTuBagTA"/>
+          </children>
+          <children xmi:id="_UV11MrFUEeq-xovTuBagTA" visible="false" type="Trigger.Compartment">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_UV11M7FUEeq-xovTuBagTA"/>
+          </children>
+          <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_UVsEMbFUEeq-xovTuBagTA" sortingKeys="Natural:Ascending"/>
+          <styles xsi:type="datanotation:TableStyle" xmi:id="_UVt5YLFUEeq-xovTuBagTA" fontName="Segoe UI" lineWidth="1"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_UVsEMrFUEeq-xovTuBagTA" x="7672" y="1111"/>
+        </children>
+        <styles xsi:type="datanotation:DataAttributeStyle" xmi:id="_Tx3lcbFUEeq-xovTuBagTA"/>
+        <styles xsi:type="datanotation:DataCompartmentStyle" xmi:id="_Tx3lcrFUEeq-xovTuBagTA"/>
+        <styles xsi:type="datanotation:DataDisplayStyle" xmi:id="_Tx3lc7FUEeq-xovTuBagTA"/>
+        <styles xsi:type="datanotation:DataDiagramRelationshipStyle" xmi:id="_Tx3ldLFUEeq-xovTuBagTA"/>
+        <styles xsi:type="datanotation:DataShapeNameStyle" xmi:id="_Tx3ldbFUEeq-xovTuBagTA"/>
+        <styles xsi:type="datanotation:DataDiagramFormattingStyle" xmi:id="_Tx3ldrFUEeq-xovTuBagTA"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_Tx3ld7FUEeq-xovTuBagTA" sortingKeys="Natural:Ascending"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_Tx3leLFUEeq-xovTuBagTA"/>
+        <styles xsi:type="datanotation:ConnectionLayerStyle" xmi:id="_Tx3lebFUEeq-xovTuBagTA"/>
+        <styles xsi:type="ilvglnotation:LayoutStyle" xmi:id="_Tx3lerFUEeq-xovTuBagTA" graphLayoutConfiguration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;java version=&quot;1.8.0&quot; class=&quot;java.beans.XMLDecoder&quot;>&#xA; &lt;object class=&quot;java.util.HashMap&quot;>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>layout&lt;/string>&#xA;   &lt;string>ilog.views.eclipse.graphlayout.runtime.hierarchical.IlvHierarchicalLayout&lt;/string>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>globalLinkStyle&lt;/string>&#xA;   &lt;int>2&lt;/int>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>flowDirection&lt;/string>&#xA;   &lt;int>4&lt;/int>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>levelingStrategy&lt;/string>&#xA;   &lt;int>1&lt;/int>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>horizontalNodeLinkOffset&lt;/string>&#xA;   &lt;float>500.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>horizontalLinkOffset&lt;/string>&#xA;   &lt;float>150.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>levelJustification&lt;/string>&#xA;   &lt;int>16&lt;/int>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>horizontalNodeOffset&lt;/string>&#xA;   &lt;float>1000.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>verticalLinkOffset&lt;/string>&#xA;   &lt;float>150.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>verticalNodeLinkOffset&lt;/string>&#xA;   &lt;float>500.0&lt;/float>&#xA;  &lt;/void>&#xA;  &lt;void method=&quot;put&quot;>&#xA;   &lt;string>verticalNodeOffset&lt;/string>&#xA;   &lt;float>1000.0&lt;/float>&#xA;  &lt;/void>&#xA; &lt;/object>&#xA;&lt;/java>&#xA;" linkLayoutConfiguration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;java version=&quot;1.8.0&quot; class=&quot;java.beans.XMLDecoder&quot;>&#xA; &lt;object class=&quot;java.util.HashMap&quot;/>&#xA;&lt;/java>&#xA;" labelLayoutConfiguration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;java version=&quot;1.8.0&quot; class=&quot;java.beans.XMLDecoder&quot;>&#xA; &lt;object class=&quot;java.util.HashMap&quot;/>&#xA;&lt;/java>&#xA;"/>
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+  </DB2Model:DB2Schema>
+  <LUW:LUWTable xmi:id="_UfCNcLFUEeq-xovTuBagTA" name="ENTITY1" schema="_TvJooLFUEeq-xovTuBagTA">
+    <columns xsi:type="LUW:LUWColumn" xmi:id="_UfCNcbFUEeq-xovTuBagTA" name="ATTRIBUTE1" nullable="false" defaultValue="">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_UfCNcrFUEeq-xovTuBagTA" name="CHAR" length="5"/>
+    </columns>
+    <columns xsi:type="LUW:LUWColumn" xmi:id="_UfCNc7FUEeq-xovTuBagTA" name="ATTRIBUTE2" defaultValue="">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_UfCNdLFUEeq-xovTuBagTA" name="CHAR" length="5"/>
+    </columns>
+    <columns xsi:type="LUW:LUWColumn" xmi:id="_UfCNdbFUEeq-xovTuBagTA" name="ATTRIBUTE3" defaultValue="">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_UfCNdrFUEeq-xovTuBagTA" name="CHAR" length="5"/>
+    </columns>
+    <columns xsi:type="LUW:LUWColumn" xmi:id="_UfCNd7FUEeq-xovTuBagTA" name="ATTRIBUTE4" defaultValue="">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_UfCNeLFUEeq-xovTuBagTA" name="CHAR" length="5"/>
+    </columns>
+    <columns xsi:type="LUW:LUWColumn" xmi:id="_UfCNebFUEeq-xovTuBagTA" name="ATTRIBUTE5" defaultValue="">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_UfCNerFUEeq-xovTuBagTA" name="CHAR" length="5"/>
+    </columns>
+    <constraints xsi:type="SQLConstraints:PrimaryKey" xmi:id="_UfEpsLFUEeq-xovTuBagTA" name="ENTITY1_PK" members="_UfCNcbFUEeq-xovTuBagTA"/>
+  </LUW:LUWTable>
+</xmi:XMI>
