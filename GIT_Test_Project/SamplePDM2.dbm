@@ -28,6 +28,9 @@
             <children xsi:type="notation:Shape" xmi:id="_UV-YELFUEeq-xovTuBagTA" type="Column" element="_UfCNebFUEeq-xovTuBagTA" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_UV-YEbFUEeq-xovTuBagTA"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="_8zqgILFaEeq-xovTuBagTA" type="Column" element="_08DqsLFaEeq-xovTuBagTA" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8zqgIbFaEeq-xovTuBagTA"/>
+            </children>
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_UV0nEbFUEeq-xovTuBagTA" sortingKeys="Natural:Ascending"/>
           </children>
           <children xmi:id="_UV11MLFUEeq-xovTuBagTA" visible="false" type="Index.Compartment">
@@ -69,6 +72,9 @@
     </columns>
     <columns xsi:type="LUW:LUWColumn" xmi:id="_UfCNebFUEeq-xovTuBagTA" name="ATTRIBUTE5" defaultValue="">
       <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_UfCNerFUEeq-xovTuBagTA" name="CHAR" length="5"/>
+    </columns>
+    <columns xsi:type="LUW:LUWColumn" xmi:id="_08DqsLFaEeq-xovTuBagTA" name="Column22">
+      <containedType xsi:type="SQLDataTypes:CharacterStringDataType" xmi:id="_08DqsbFaEeq-xovTuBagTA" name="CHAR" length="5"/>
     </columns>
     <constraints xsi:type="SQLConstraints:PrimaryKey" xmi:id="_UfEpsLFUEeq-xovTuBagTA" name="ENTITY1_PK" members="_UfCNcbFUEeq-xovTuBagTA"/>
   </LUW:LUWTable>
