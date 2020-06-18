@@ -33,6 +33,9 @@
             <children xsi:type="notation:Shape" xmi:id="_upZPQLFZEeq-xovTuBagTA" type="IEEntityNonKey" element="_rzbuwLFZEeq-xovTuBagTA" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_upZPQbFZEeq-xovTuBagTA"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="_p5_rcLFaEeq-xovTuBagTA" type="IEEntityNonKey" element="_nAmccLFaEeq-xovTuBagTA" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_p5_rcbFaEeq-xovTuBagTA"/>
+            </children>
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_j4ClgdBkEeiWENWHH8NTDA" sortingKeys="Natural:Ascending"/>
           </children>
           <children xmi:id="_j4DMkNBkEeiWENWHH8NTDA" visible="false" type="entity.ie.description.compartment">
@@ -65,6 +68,7 @@
     <attributes xmi:id="_mngccNBkEeiWENWHH8NTDA" name="Attribute4" dataType="CHAR(5)"/>
     <attributes xmi:id="_Ueb5ENB2EeimYqR7gFibeQ" name="Attribute5" dataType="CHAR(5)"/>
     <attributes xmi:id="_rzbuwLFZEeq-xovTuBagTA" name="Attribute21" dataType="CHAR(5)"/>
+    <attributes xmi:id="_nAmccLFaEeq-xovTuBagTA" name="Attribute22" dataType="CHAR(5)"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_mUMe4NBkEeiWENWHH8NTDA" name="Entity1_PK" attributes="_mUCt4NBkEeiWENWHH8NTDA"/>
   </LogicalDataModel:Entity>
 </xmi:XMI>
