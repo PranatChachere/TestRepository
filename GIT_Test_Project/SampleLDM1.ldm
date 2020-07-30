@@ -36,6 +36,9 @@
             <children xsi:type="notation:Shape" xmi:id="_lc_7sLFaEeq-xovTuBagTA" type="IEEntityNonKey" element="_hzzAYLFaEeq-xovTuBagTA" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_lc_7sbFaEeq-xovTuBagTA"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="_8rsHANJjEeqfRLCI3pk6eg" type="IEEntityNonKey" element="_vJz2YNJjEeqfRLCI3pk6eg" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8rsHAdJjEeqfRLCI3pk6eg"/>
+            </children>
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_j4ClgdBkEeiWENWHH8NTDA" sortingKeys="Natural:Ascending"/>
           </children>
           <children xmi:id="_j4DMkNBkEeiWENWHH8NTDA" visible="false" type="entity.ie.description.compartment">
@@ -69,6 +72,7 @@
     <attributes xmi:id="_Ueb5ENB2EeimYqR7gFibeQ" name="Attribute5" dataType="CHAR(5)"/>
     <attributes xmi:id="_o9mxILFZEeq-xovTuBagTA" name="Attribute11" dataType="CHAR(5)"/>
     <attributes xmi:id="_hzzAYLFaEeq-xovTuBagTA" name="Attribute12" dataType="CHAR(5)"/>
+    <attributes xmi:id="_vJz2YNJjEeqfRLCI3pk6eg" name="TestAtt" dataType="CHAR(5)"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_mUMe4NBkEeiWENWHH8NTDA" name="Entity1_PK" attributes="_mUCt4NBkEeiWENWHH8NTDA"/>
   </LogicalDataModel:Entity>
 </xmi:XMI>
